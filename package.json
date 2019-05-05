@@ -1,0 +1,19 @@
+{
+  "name": "common-res",
+  "version": "1.0.0",
+  "description": "通用静态文件",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinginconntry/common-res.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinginconntry/common-res/issues"
+  },
+  "homepage": "https://github.com/kinginconntry/common-res#readme"
+}
